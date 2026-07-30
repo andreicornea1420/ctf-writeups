@@ -1,2 +1,2 @@
 # ctf-writeups
-My collection of CTF write-ups, which also include "lessons" learned from the challenges.
+A collection of my CTF write-ups, including the lessons I've learned from each challenge.
